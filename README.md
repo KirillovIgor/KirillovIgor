@@ -3,12 +3,12 @@
   <img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" width="100"/>
   
   <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://vk.com/ricardowave">
+    <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
    
   <a href="https://t.me/ig_kirillov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=KirillovIgor&style=flat-square&color=blue" alt=""/>
