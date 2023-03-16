@@ -5,7 +5,7 @@
 I like
 - :book: reading
 - :swimmer: swiming
-- :👾: board games
+- 👾 board games
 
 ### Skills and Tools
 <p>
