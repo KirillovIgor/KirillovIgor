@@ -24,3 +24,6 @@ I like
 
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" />](https://vk.com/ricardowave)
 [<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />](https://t.me/ig_kirillov)
+<br />
+### Snake eating my contribution graph
+![snake gif](https://github.com/KirillovIgor/KirillovIgor/blob/output/github-contribution-grid-snake.gif)
