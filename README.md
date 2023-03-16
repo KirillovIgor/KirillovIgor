@@ -10,22 +10,17 @@ I like
 ### Skills and Tools
 <p>
   <img align="left" alt="Python" width="26px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" />
-</p>
-<br />
-<br />
-<p>
   <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
   <img align="left" alt="PSQL" width="26px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" />
-</p>
-<br />
-<br />
-<p>
   <img align="left" alt="Tableu" width="26px" src="https://avatars.githubusercontent.com/u/828667?s=200&v=4" />
-  <img align="left" alt="PowerBI" width="30px" src="https://avatars.githubusercontent.com/u/9753375?s=200&v=4" />
-</p>
+  <img align="left" alt="PowerBI" width="26px" src="https://avatars.githubusercontent.com/u/9753375?s=200&v=4" />
+<p />
 
 <br />
 <br />
 <br />
 
+### You can contact me:
 
+[<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" />](https://vk.com/ricardowave)
+[<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />](https://t.me/ig_kirillov)
