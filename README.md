@@ -18,7 +18,6 @@ I like
 
 <br />
 <br />
-<br />
 
 ### You can contact me:
 
